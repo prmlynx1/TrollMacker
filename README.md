@@ -52,6 +52,7 @@ It allows users to generate structured CMD commands, organize scripts, and execu
 2️⃣ Create or import scripts  
 3️⃣ Generate CMD commands  
 4️⃣ Manage and execute automation tasks
+5️⃣ [Download From here](https://discord.gg/ZUffzcQGzE)
 
 ---
 
